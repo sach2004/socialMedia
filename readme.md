@@ -7,3 +7,4 @@ edit details
 share to story
 search accounts"# instaclone" 
 "# instaclone" 
+"# socialMedia" 
